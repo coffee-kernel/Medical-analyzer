@@ -1,0 +1,1 @@
+pip install gradio langchain langchain-groq openai pillow requests python-dotenv
