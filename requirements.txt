@@ -1,1 +1,1 @@
-pip install gradio langchain langchain-groq openai pillow requests python-dotenv
+pip install gradio langchain langchain-google-genai openai pillow requests python-dotenv freeze > requirements.txt
