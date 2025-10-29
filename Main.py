@@ -4,7 +4,7 @@ import os
 import base64
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 from langchain.tools import tool
 from langchain.agents import creat_react_agent, AgentExecutor
 import requests
